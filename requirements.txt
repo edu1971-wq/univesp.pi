@@ -58,7 +58,5 @@ streamlit
 pandas
 joblib
 
-streamlit
 
-streamlit==1.8.0
-protobuf<=3.20.0
+
